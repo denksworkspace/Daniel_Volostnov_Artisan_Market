@@ -1,0 +1,362 @@
+[
+  {
+    "seller_id": "S001",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S001/285"
+    ],
+    "rating": 4.94
+  },
+  {
+    "seller_id": "S002",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S002/201"
+    ],
+    "rating": 3.64
+  },
+  {
+    "seller_id": "S003",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S003/259"
+    ],
+    "rating": 4.77
+  },
+  {
+    "seller_id": "S004",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S004/236"
+    ],
+    "rating": 4.71
+  },
+  {
+    "seller_id": "S005",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S005/286"
+    ],
+    "rating": 4.96
+  },
+  {
+    "seller_id": "S006",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S006/269"
+    ],
+    "rating": 4.33
+  },
+  {
+    "seller_id": "S007",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S007/220"
+    ],
+    "rating": 4.37
+  },
+  {
+    "seller_id": "S008",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S008/209"
+    ],
+    "rating": 4.49
+  },
+  {
+    "seller_id": "S009",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S009/256"
+    ],
+    "rating": 4.78
+  },
+  {
+    "seller_id": "S010",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S010/244"
+    ],
+    "rating": 3.92
+  },
+  {
+    "seller_id": "S011",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S011/275"
+    ],
+    "rating": 3.74
+  },
+  {
+    "seller_id": "S012",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S012/238"
+    ],
+    "rating": 4.51
+  },
+  {
+    "seller_id": "S013",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S013/281"
+    ],
+    "rating": 4.41
+  },
+  {
+    "seller_id": "S014",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S014/254"
+    ],
+    "rating": 3.75
+  },
+  {
+    "seller_id": "S015",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S015/288"
+    ],
+    "rating": 4.98
+  },
+  {
+    "seller_id": "S016",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S016/232"
+    ],
+    "rating": 4.53
+  },
+  {
+    "seller_id": "S017",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S017/258"
+    ],
+    "rating": 4.73
+  },
+  {
+    "seller_id": "S018",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S018/238"
+    ],
+    "rating": 3.9
+  },
+  {
+    "seller_id": "S019",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S019/225"
+    ],
+    "rating": 3.82
+  },
+  {
+    "seller_id": "S020",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S020/249"
+    ],
+    "rating": 4.83
+  },
+  {
+    "seller_id": "S021",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S021/261"
+    ],
+    "rating": 3.71
+  },
+  {
+    "seller_id": "S022",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S022/213"
+    ],
+    "rating": 4.62
+  },
+  {
+    "seller_id": "S023",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S023/230"
+    ],
+    "rating": 4.62
+  },
+  {
+    "seller_id": "S024",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S024/248"
+    ],
+    "rating": 4.04
+  },
+  {
+    "seller_id": "S025",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S025/273"
+    ],
+    "rating": 3.64
+  },
+  {
+    "seller_id": "S026",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S026/245"
+    ],
+    "rating": 3.73
+  },
+  {
+    "seller_id": "S027",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S027/273"
+    ],
+    "rating": 4.39
+  },
+  {
+    "seller_id": "S028",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S028/237"
+    ],
+    "rating": 4.39
+  },
+  {
+    "seller_id": "S029",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S029/289"
+    ],
+    "rating": 4.96
+  },
+  {
+    "seller_id": "S030",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S030/237"
+    ],
+    "rating": 4.52
+  },
+  {
+    "seller_id": "S031",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S031/202"
+    ],
+    "rating": 4.65
+  },
+  {
+    "seller_id": "S032",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S032/284"
+    ],
+    "rating": 3.94
+  },
+  {
+    "seller_id": "S033",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S033/250"
+    ],
+    "rating": 3.5
+  },
+  {
+    "seller_id": "S034",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S034/235"
+    ],
+    "rating": 4.26
+  },
+  {
+    "seller_id": "S035",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S035/201"
+    ],
+    "rating": 4.76
+  },
+  {
+    "seller_id": "S036",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S036/272"
+    ],
+    "rating": 3.73
+  },
+  {
+    "seller_id": "S037",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S037/287"
+    ],
+    "rating": 4.4
+  },
+  {
+    "seller_id": "S038",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S038/299"
+    ],
+    "rating": 3.67
+  },
+  {
+    "seller_id": "S039",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S039/295"
+    ],
+    "rating": 3.86
+  },
+  {
+    "seller_id": "S040",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S040/206"
+    ],
+    "rating": 3.63
+  },
+  {
+    "seller_id": "S041",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S041/277"
+    ],
+    "rating": 4.97
+  },
+  {
+    "seller_id": "S042",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S042/295"
+    ],
+    "rating": 3.69
+  },
+  {
+    "seller_id": "S043",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S043/263"
+    ],
+    "rating": 3.9
+  },
+  {
+    "seller_id": "S044",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S044/236"
+    ],
+    "rating": 4.95
+  },
+  {
+    "seller_id": "S045",
+    "bio": "Handmade artisan.",
+    "portfolio": [
+      "https://picsum.photos/seed/S045/299"
+    ],
+    "rating": 4.57
+  }
+]

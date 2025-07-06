@@ -1,11 +1,11 @@
 """PostgreSQL connection and utilities."""
 
 from contextlib import contextmanager
+
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base, sessionmaker
 
 from src.config import POSTGRES_CONFIG
 
@@ -36,22 +36,19 @@ class PostgresConnection:
 
     @contextmanager
     def get_cursor(self):
-        """Get a database cursor for raw SQL queries."""
         conn = psycopg2.connect(**self.config)
         try:
             with conn.cursor(cursor_factory=RealDictCursor) as cursor:
                 yield cursor
                 conn.commit()
-        except Exception as e:
+        except Exception:
             conn.rollback()
-            raise e
+            raise
         finally:
             conn.close()
 
     def create_tables(self):
-        """Create all tables in the database."""
-        # TODO: Implement table creation SQL
-        
+        pass
 
-# Singleton instance
+
 db = PostgresConnection()

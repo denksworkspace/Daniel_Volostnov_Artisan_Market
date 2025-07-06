@@ -1,50 +1,48 @@
-"""Load vector embeddings into pgvector."""
+"""Create/refresh 384-dim pgvector embeddings for every product description."""
 
+from pathlib import Path
+
+import pandas as pd
+import psycopg2
 from sentence_transformers import SentenceTransformer
-import numpy as np
-from src.db.postgres_client import db
-from src.utils.data_parser import DataParser
+
+from src.config import POSTGRES_CONFIG
+
+ROOT = Path(__file__).resolve().parents[2]
+REL = ROOT / "raw_data" / "relational_data" / "products.csv"
+
+MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 
-class VectorLoader:
-    def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
-        self.model = SentenceTransformer(model_name)
-        self.parser = DataParser()
+def product_id(code: str) -> int:
+    """Convert 'P015' -> 15."""
+    return int("".join(c for c in code if c.isdigit()))
 
-    def create_vector_extension(self):
-        """Enable pgvector extension and create embeddings table."""
-        with db.get_cursor() as cursor:
-            cursor.execute("CREATE EXTENSION IF NOT EXISTS vector;")
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS product_embeddings (
-                    product_id VARCHAR(10) PRIMARY KEY,
-                    description_embedding vector(384)  -- 384 dimensions for MiniLM
-                );
-            """)
 
-    def generate_embeddings(self):
-        """Generate embeddings for all product descriptions."""
-        products = self.parser.parse_products()
+def main() -> None:
+    df = pd.read_csv(REL)[["id", "description"]]
+    texts = df["description"].fillna("").tolist()
+    embeds = MODEL.encode(texts, normalize_embeddings=True)
 
-        for _, product in products.iterrows():
-            # Combine relevant text fields
-            text = f"{product['name']} {product['description']} {' '.join(product['tags'])}"
+    sql = """
+        INSERT INTO product_embeddings(product_id, embedding)
+        VALUES (%s, %s::vector)
+        ON CONFLICT (product_id)
+        DO UPDATE SET embedding = EXCLUDED.embedding
+    """
 
-            # Generate embedding
-            embedding = self.model.encode(text)
+    conn = psycopg2.connect(**POSTGRES_CONFIG)
+    cur = conn.cursor()
 
-            # Store in database
-            self._store_embedding(product["id"], embedding)
+    for row, vec in zip(df.itertuples(index=False), embeds, strict=False):
+        pid = product_id(row.id)  # row.id is e.g. 'P015'
+        cur.execute(sql, (pid, vec.tolist()))
 
-    def _store_embedding(self, product_id: str, embedding: np.ndarray):
-        """Store embedding in pgvector."""
-        with db.get_cursor() as cursor:
-            cursor.execute(
-                """
-                INSERT INTO product_embeddings (product_id, description_embedding)
-                VALUES (%s, %s)
-                ON CONFLICT (product_id) DO UPDATE
-                SET description_embedding = EXCLUDED.description_embedding;
-                """,
-                (product_id, embedding.tolist()),
-            )
+    conn.commit()
+    cur.close()
+    conn.close()
+    print("vector load complete")
+
+
+if __name__ == "__main__":
+    main()

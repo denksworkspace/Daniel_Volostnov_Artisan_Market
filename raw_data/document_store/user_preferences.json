@@ -1,0 +1,425 @@
+[
+  {
+    "user_id": "U001",
+    "liked_categories": [
+      "Category_3"
+    ],
+    "recent_views": [
+      "P052",
+      "P023",
+      "P015",
+      "P041",
+      "P013"
+    ]
+  },
+  {
+    "user_id": "U002",
+    "liked_categories": [
+      "Category_1",
+      "Category_2",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P058",
+      "P041",
+      "P042",
+      "P003",
+      "P020"
+    ]
+  },
+  {
+    "user_id": "U003",
+    "liked_categories": [
+      "Category_6",
+      "Category_3"
+    ],
+    "recent_views": [
+      "P024",
+      "P047",
+      "P009",
+      "P006",
+      "P059"
+    ]
+  },
+  {
+    "user_id": "U004",
+    "liked_categories": [
+      "Category_1",
+      "Category_4"
+    ],
+    "recent_views": [
+      "P012",
+      "P013",
+      "P009",
+      "P051",
+      "P035"
+    ]
+  },
+  {
+    "user_id": "U005",
+    "liked_categories": [
+      "Category_3",
+      "Category_5"
+    ],
+    "recent_views": [
+      "P059",
+      "P018",
+      "P054",
+      "P011",
+      "P017"
+    ]
+  },
+  {
+    "user_id": "U006",
+    "liked_categories": [
+      "Category_1",
+      "Category_5"
+    ],
+    "recent_views": [
+      "P052",
+      "P008",
+      "P030",
+      "P005",
+      "P010"
+    ]
+  },
+  {
+    "user_id": "U007",
+    "liked_categories": [
+      "Category_5"
+    ],
+    "recent_views": [
+      "P047",
+      "P044",
+      "P026",
+      "P055",
+      "P052"
+    ]
+  },
+  {
+    "user_id": "U008",
+    "liked_categories": [
+      "Category_1",
+      "Category_6",
+      "Category_4"
+    ],
+    "recent_views": [
+      "P001",
+      "P017",
+      "P035",
+      "P008",
+      "P030"
+    ]
+  },
+  {
+    "user_id": "U009",
+    "liked_categories": [
+      "Category_5",
+      "Category_1"
+    ],
+    "recent_views": [
+      "P038",
+      "P025",
+      "P053",
+      "P041",
+      "P024"
+    ]
+  },
+  {
+    "user_id": "U010",
+    "liked_categories": [
+      "Category_5"
+    ],
+    "recent_views": [
+      "P015",
+      "P031",
+      "P002",
+      "P040",
+      "P057"
+    ]
+  },
+  {
+    "user_id": "U011",
+    "liked_categories": [
+      "Category_1",
+      "Category_3",
+      "Category_2"
+    ],
+    "recent_views": [
+      "P042",
+      "P005",
+      "P041",
+      "P053",
+      "P030"
+    ]
+  },
+  {
+    "user_id": "U012",
+    "liked_categories": [
+      "Category_1",
+      "Category_4",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P009",
+      "P003",
+      "P020",
+      "P032",
+      "P008"
+    ]
+  },
+  {
+    "user_id": "U013",
+    "liked_categories": [
+      "Category_2"
+    ],
+    "recent_views": [
+      "P057",
+      "P035",
+      "P009",
+      "P025",
+      "P030"
+    ]
+  },
+  {
+    "user_id": "U014",
+    "liked_categories": [
+      "Category_5",
+      "Category_3"
+    ],
+    "recent_views": [
+      "P027",
+      "P038",
+      "P048",
+      "P047",
+      "P010"
+    ]
+  },
+  {
+    "user_id": "U015",
+    "liked_categories": [
+      "Category_5",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P054",
+      "P032",
+      "P040",
+      "P027",
+      "P018"
+    ]
+  },
+  {
+    "user_id": "U016",
+    "liked_categories": [
+      "Category_5"
+    ],
+    "recent_views": [
+      "P024",
+      "P014",
+      "P029",
+      "P016",
+      "P055"
+    ]
+  },
+  {
+    "user_id": "U017",
+    "liked_categories": [
+      "Category_6",
+      "Category_1"
+    ],
+    "recent_views": [
+      "P035",
+      "P058",
+      "P042",
+      "P023",
+      "P004"
+    ]
+  },
+  {
+    "user_id": "U018",
+    "liked_categories": [
+      "Category_1",
+      "Category_2"
+    ],
+    "recent_views": [
+      "P008",
+      "P055",
+      "P053",
+      "P030",
+      "P006"
+    ]
+  },
+  {
+    "user_id": "U019",
+    "liked_categories": [
+      "Category_2",
+      "Category_3",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P004",
+      "P051",
+      "P022",
+      "P016",
+      "P009"
+    ]
+  },
+  {
+    "user_id": "U020",
+    "liked_categories": [
+      "Category_2",
+      "Category_6",
+      "Category_5"
+    ],
+    "recent_views": [
+      "P038",
+      "P014",
+      "P053",
+      "P056",
+      "P015"
+    ]
+  },
+  {
+    "user_id": "U021",
+    "liked_categories": [
+      "Category_2",
+      "Category_3"
+    ],
+    "recent_views": [
+      "P001",
+      "P018",
+      "P055",
+      "P010",
+      "P009"
+    ]
+  },
+  {
+    "user_id": "U022",
+    "liked_categories": [
+      "Category_1",
+      "Category_2",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P043",
+      "P056",
+      "P002",
+      "P009",
+      "P001"
+    ]
+  },
+  {
+    "user_id": "U023",
+    "liked_categories": [
+      "Category_2",
+      "Category_3"
+    ],
+    "recent_views": [
+      "P021",
+      "P002",
+      "P012",
+      "P017",
+      "P004"
+    ]
+  },
+  {
+    "user_id": "U024",
+    "liked_categories": [
+      "Category_5"
+    ],
+    "recent_views": [
+      "P027",
+      "P034",
+      "P008",
+      "P048",
+      "P005"
+    ]
+  },
+  {
+    "user_id": "U025",
+    "liked_categories": [
+      "Category_4",
+      "Category_1"
+    ],
+    "recent_views": [
+      "P033",
+      "P038",
+      "P007",
+      "P029",
+      "P015"
+    ]
+  },
+  {
+    "user_id": "U026",
+    "liked_categories": [
+      "Category_6",
+      "Category_3",
+      "Category_1"
+    ],
+    "recent_views": [
+      "P030",
+      "P042",
+      "P002",
+      "P004",
+      "P031"
+    ]
+  },
+  {
+    "user_id": "U027",
+    "liked_categories": [
+      "Category_4",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P032",
+      "P046",
+      "P059",
+      "P029",
+      "P005"
+    ]
+  },
+  {
+    "user_id": "U028",
+    "liked_categories": [
+      "Category_1"
+    ],
+    "recent_views": [
+      "P039",
+      "P010",
+      "P005",
+      "P009",
+      "P018"
+    ]
+  },
+  {
+    "user_id": "U029",
+    "liked_categories": [
+      "Category_5",
+      "Category_3",
+      "Category_1"
+    ],
+    "recent_views": [
+      "P025",
+      "P039",
+      "P034",
+      "P019",
+      "P030"
+    ]
+  },
+  {
+    "user_id": "U030",
+    "liked_categories": [
+      "Category_3",
+      "Category_4",
+      "Category_6"
+    ],
+    "recent_views": [
+      "P051",
+      "P045",
+      "P008",
+      "P055",
+      "P042"
+    ]
+  }
+]

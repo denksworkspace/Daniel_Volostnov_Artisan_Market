@@ -1,0 +1,1082 @@
+[
+  {
+    "product_id": "P001",
+    "category": "Category_6",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 15,
+        "width": 10,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P002",
+    "category": "Category_2",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 8,
+        "width": 7,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P003",
+    "category": "Category_2",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 23,
+        "width": 25,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P004",
+    "category": "Category_1",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 30,
+        "width": 23,
+        "height": 5,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P005",
+    "category": "Category_4",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 8,
+        "width": 22,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P006",
+    "category": "Category_4",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 29,
+        "width": 21,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P007",
+    "category": "Category_4",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 14,
+        "width": 23,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P008",
+    "category": "Category_4",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 24,
+        "width": 28,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P009",
+    "category": "Category_2",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 13,
+        "width": 26,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P010",
+    "category": "Category_4",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 10,
+        "width": 22,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P011",
+    "category": "Category_1",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 18,
+        "width": 19,
+        "height": 10,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P012",
+    "category": "Category_2",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 6,
+        "width": 12,
+        "height": 5,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P013",
+    "category": "Category_1",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 7,
+        "width": 26,
+        "height": 4,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P014",
+    "category": "Category_3",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 18,
+        "width": 8,
+        "height": 9,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P015",
+    "category": "Category_2",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 13,
+        "width": 9,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P016",
+    "category": "Category_3",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 30,
+        "width": 14,
+        "height": 10,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P017",
+    "category": "Category_5",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 19,
+        "width": 8,
+        "height": 8,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P018",
+    "category": "Category_2",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 13,
+        "width": 21,
+        "height": 9,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P019",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 7,
+        "width": 24,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P020",
+    "category": "Category_2",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 24,
+        "width": 13,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P021",
+    "category": "Category_2",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 26,
+        "width": 23,
+        "height": 10,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P022",
+    "category": "Category_1",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 23,
+        "width": 6,
+        "height": 3,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P023",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 13,
+        "width": 10,
+        "height": 10,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P024",
+    "category": "Category_2",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 7,
+        "width": 20,
+        "height": 6,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P025",
+    "category": "Category_6",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 15,
+        "width": 26,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P026",
+    "category": "Category_1",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 18,
+        "width": 27,
+        "height": 8,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P027",
+    "category": "Category_3",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 29,
+        "width": 22,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P028",
+    "category": "Category_6",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 15,
+        "width": 13,
+        "height": 6,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P029",
+    "category": "Category_6",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 21,
+        "width": 5,
+        "height": 9,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P030",
+    "category": "Category_2",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 6,
+        "width": 11,
+        "height": 9,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P031",
+    "category": "Category_6",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 25,
+        "width": 19,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P032",
+    "category": "Category_2",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 22,
+        "width": 9,
+        "height": 5,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P033",
+    "category": "Category_2",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 8,
+        "width": 5,
+        "height": 10,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P034",
+    "category": "Category_6",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 14,
+        "width": 22,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P035",
+    "category": "Category_6",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 7,
+        "width": 12,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P036",
+    "category": "Category_4",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 25,
+        "width": 9,
+        "height": 8,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P037",
+    "category": "Category_6",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 18,
+        "width": 20,
+        "height": 8,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P038",
+    "category": "Category_4",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 22,
+        "width": 9,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P039",
+    "category": "Category_2",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 7,
+        "width": 13,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P040",
+    "category": "Category_3",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 5,
+        "width": 14,
+        "height": 5,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P041",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 9,
+        "width": 19,
+        "height": 9,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P042",
+    "category": "Category_1",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 15,
+        "width": 22,
+        "height": 9,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P043",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 15,
+        "width": 11,
+        "height": 4,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P044",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 12,
+        "width": 29,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P045",
+    "category": "Category_1",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 28,
+        "width": 20,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P046",
+    "category": "Category_4",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 20,
+        "width": 6,
+        "height": 3,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P047",
+    "category": "Category_1",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 8,
+        "width": 19,
+        "height": 2,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P048",
+    "category": "Category_6",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 5,
+        "width": 28,
+        "height": 3,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "4 liters"
+    }
+  },
+  {
+    "product_id": "P049",
+    "category": "Category_4",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 7,
+        "width": 20,
+        "height": 5,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P050",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 25,
+        "width": 7,
+        "height": 6,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P051",
+    "category": "Category_5",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 15,
+        "width": 25,
+        "height": 8,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P052",
+    "category": "Category_2",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 24,
+        "width": 7,
+        "height": 4,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P053",
+    "category": "Category_5",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 28,
+        "width": 7,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P054",
+    "category": "Category_2",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 19,
+        "width": 10,
+        "height": 5,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "1 liters"
+    }
+  },
+  {
+    "product_id": "P055",
+    "category": "Category_1",
+    "specs": {
+      "material": "Wood",
+      "dimensions": {
+        "length": 15,
+        "width": 30,
+        "height": 1,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  },
+  {
+    "product_id": "P056",
+    "category": "Category_4",
+    "specs": {
+      "material": "Clay",
+      "dimensions": {
+        "length": 16,
+        "width": 18,
+        "height": 3,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P057",
+    "category": "Category_2",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 23,
+        "width": 26,
+        "height": 3,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P058",
+    "category": "Category_4",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 7,
+        "width": 24,
+        "height": 7,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "5 liters"
+    }
+  },
+  {
+    "product_id": "P059",
+    "category": "Category_5",
+    "specs": {
+      "material": "Cotton",
+      "dimensions": {
+        "length": 20,
+        "width": 23,
+        "height": 3,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "2 liters"
+    }
+  },
+  {
+    "product_id": "P060",
+    "category": "Category_4",
+    "specs": {
+      "material": "Glass",
+      "dimensions": {
+        "length": 25,
+        "width": 13,
+        "height": 8,
+        "unit": "cm"
+      },
+      "care_instructions": [
+        "Keep dry",
+        "Hand wash only"
+      ],
+      "capacity": "3 liters"
+    }
+  }
+]

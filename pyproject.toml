@@ -1,3 +1,7 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
 [project]
 name = "artisan-market"
 version = "2025.0"
@@ -21,17 +25,16 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "pytest>=7.4.4",
+    "pytest-asyncio>=0.21.1",
     "ruff>=0.1.9",
     "ipython>=8.19.0",
-    "pytest-asyncio>=0.21.1",
 ]
 
 [project.scripts]
 load-data = "src.cli:main"
 
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+[tool.hatch.metadata]
+packages = [{ include = "src" }]
 
 [tool.ruff]
 target-version = "py312"
@@ -40,19 +43,17 @@ indent-width = 4
 
 [tool.ruff.lint]
 select = [
-    "E",    # pycodestyle errors
-    "W",    # pycodestyle warnings
-    "F",    # pyflakes
-    "I",    # isort
-    "B",    # flake8-bugbear
-    "C4",   # flake8-comprehensions
-    "UP",   # pyupgrade
-    "ARG",  # flake8-unused-arguments
-    "SIM",  # flake8-simplify
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "F",  # pyflakes
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C4", # flake8-comprehensions
+    "UP", # pyupgrade
+    "ARG",# flake8-unused-arguments
+    "SIM"# flake8-simplify
 ]
-ignore = [
-    "E501",  # line too long (handled by formatter)
-]
+ignore = ["E501"]  # line too long
 
 [tool.ruff.format]
 quote-style = "double"
@@ -63,3 +64,9 @@ line-ending = "auto"
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py", "*_test.py"]
+
+[tool.hatch.build.targets.wheel]
+only-include = ["src"]
+
+[tool.hatch.build.targets.wheel.sources]
+"src" = ""
